@@ -1,0 +1,53 @@
+# Geotechnical Engineering1 — Rotorua
+
+> Geotechnical engineering services in Rotorua, New Zealand.
+
+## Services
+- [Anchors](https://rotorua.geotechnical-engineering1.co/anchors/)
+- [Atterberg Limits](https://rotorua.geotechnical-engineering1.co/atterberg-limits/)
+- [Cbr Road](https://rotorua.geotechnical-engineering1.co/cbr-road/)
+- [Cpt Test](https://rotorua.geotechnical-engineering1.co/cpt-test/)
+- [Deep Excavations](https://rotorua.geotechnical-engineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://rotorua.geotechnical-engineering1.co/excavation-monitoring/)
+- [Excavations](https://rotorua.geotechnical-engineering1.co/excavations/)
+- [Flexible Pavement](https://rotorua.geotechnical-engineering1.co/flexible-pavement/)
+- [Footings](https://rotorua.geotechnical-engineering1.co/footings/)
+- [Foundations](https://rotorua.geotechnical-engineering1.co/foundations/)
+- [Geophysics](https://rotorua.geotechnical-engineering1.co/geophysics/)
+- [Grain Size](https://rotorua.geotechnical-engineering1.co/grain-size/)
+- [Ground Improvement](https://rotorua.geotechnical-engineering1.co/ground-improvement/)
+- [Grouting](https://rotorua.geotechnical-engineering1.co/grouting/)
+- [In Situ Permeability](https://rotorua.geotechnical-engineering1.co/in-situ-permeability/)
+- [Investigation](https://rotorua.geotechnical-engineering1.co/investigation/)
+- [Lab In Situ](https://rotorua.geotechnical-engineering1.co/lab-in-situ/)
+- [Laboratory](https://rotorua.geotechnical-engineering1.co/laboratory/)
+- [Liquefaction](https://rotorua.geotechnical-engineering1.co/liquefaction/)
+- [Masw](https://rotorua.geotechnical-engineering1.co/masw/)
+- [Mat Foundations](https://rotorua.geotechnical-engineering1.co/mat-foundations/)
+- [Piles](https://rotorua.geotechnical-engineering1.co/piles/)
+- [Plate Load Test](https://rotorua.geotechnical-engineering1.co/plate-load-test/)
+- [Proctor Tests](https://rotorua.geotechnical-engineering1.co/proctor-tests/)
+- [Resistivity](https://rotorua.geotechnical-engineering1.co/resistivity/)
+- [Retaining Walls](https://rotorua.geotechnical-engineering1.co/retaining-walls/)
+- [Rigid Pavement](https://rotorua.geotechnical-engineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://rotorua.geotechnical-engineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://rotorua.geotechnical-engineering1.co/sand-cone-density/)
+- [Seismic](https://rotorua.geotechnical-engineering1.co/seismic/)
+- [Seismic Isolation](https://rotorua.geotechnical-engineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://rotorua.geotechnical-engineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://rotorua.geotechnical-engineering1.co/seismic-refraction/)
+- [Slope Stability](https://rotorua.geotechnical-engineering1.co/slope-stability/)
+- [Slopes](https://rotorua.geotechnical-engineering1.co/slopes/)
+- [Soft Ground Tunnels](https://rotorua.geotechnical-engineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://rotorua.geotechnical-engineering1.co/spt-drilling/)
+- [Stone Columns](https://rotorua.geotechnical-engineering1.co/stone-columns/)
+- [Test Pits](https://rotorua.geotechnical-engineering1.co/test-pits/)
+- [Triaxial](https://rotorua.geotechnical-engineering1.co/triaxial/)
+- [Vibrocompaction](https://rotorua.geotechnical-engineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://rotorua.geotechnical-engineering1.co/
+
+## About
+This site provides geotechnical engineering services in Rotorua, New Zealand.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
